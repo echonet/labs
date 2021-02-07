@@ -5,7 +5,9 @@ EchoNet-Labs:<br/>Deep Learning Prediction of Biomarkers from Echocardiogram Vid
 
 EchoNet-Labs is an end-to-end deep learning model for predicting 14 different biomarkers and lab values from echocardiogram videos. 
 
-An accompanying paper with more information about training and data will be shared soon. 
+For more information, check out our pre-print:
+> [**Deep Learning Prediction of Biomarkers from Echocardiogram Videos**](https://www.medrxiv.org/content/10.1101/2021.02.03.21251080v1)
+  J. Weston Hughes, Neal Yuan, Bryan He, Jiahong Ouyang, Joseph Ebinger, Patrick Botting, Jasper Lee, James E. Tooley, Koen Neiman, Matthew P. Lungren, David Liang, Ingela Schnittger, Robert A. Harrington, Jonathan H. Chen, Euan Ashley, Susan Cheng, David Ouyang, James Zou. 2021.
 
 Dataset
 -------
@@ -72,10 +74,8 @@ This creates a directory in `output/video`, which will contain
 Setting `segmentation_mode="only"` trains and validates a model solely on segmentations produced from EchoNet-dynamic (segmentations need to be pre-generated). Setting `segmentation_mode="both"` trains and validates a model with only the left ventricle visible. Setting `single_repeated=True` trains and video model on a single frame of input.
 
 ### Citations
-
-This work builds on:
-> [**A Deep Learning Model to Detect Anemia from Echocardiography**](http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2020/19_Anemia%20(5).pdf)
-  J. Weston Hughes, James Zou, David Ouyang. <b>NeurIPS Medical Imaging meets NeurIPS Workshop</b>, 2020.
+> [**Deep Learning Prediction of Biomarkers from Echocardiogram Videos**](https://www.medrxiv.org/content/10.1101/2021.02.03.21251080v1)
+  J. Weston Hughes, Neal Yuan, Bryan He, Jiahong Ouyang, Joseph Ebinger, Patrick Botting, Jasper Lee, James E. Tooley, Koen Neiman, Matthew P. Lungren, David Liang, Ingela Schnittger, Robert A. Harrington, Jonathan H. Chen, Euan Ashley, Susan Cheng, David Ouyang, James Zou. 2021.
 
 > [**Video-based AI for beat-to-beat assessment of cardiac function**](https://www.nature.com/articles/s41586-020-2145-8)<br/>
   David Ouyang, Bryan He, Amirata Ghorbani, Neal Yuan, Joseph Ebinger, Curt P. Langlotz, Paul A. Heidenreich, Robert A. Harrington, David H. Liang, Euan A. Ashley, and James Y. Zou. <b>Nature</b>, March 25, 2020.
