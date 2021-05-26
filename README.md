@@ -24,7 +24,7 @@ Installation
 
 First, clone this repository and enter the directory by running:
 
-    git clone <this repo link>
+    git clone https://github.com/echonet/labs.git
     cd labs
 
 EchoNet-Labs is implemented for Python 3, and depends on the following packages:
