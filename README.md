@@ -75,7 +75,7 @@ Setting `segmentation_mode="only"` trains and validates a model solely on segmen
 
 ### Citations
 > [**Deep Learning Prediction of Biomarkers from Echocardiogram Videos**](https://www.medrxiv.org/content/10.1101/2021.02.03.21251080v1)
-  J. Weston Hughes, Neal Yuan, Bryan He, Jiahong Ouyang, Joseph Ebinger, Patrick Botting, Jasper Lee, James E. Tooley, Koen Neiman, Matthew P. Lungren, David Liang, Ingela Schnittger, Robert A. Harrington, Jonathan H. Chen, Euan Ashley, Susan Cheng, David Ouyang, James Zou. 2021.
+  J. Weston Hughes, Neal Yuan, Bryan He, Jiahong Ouyang, Joseph Ebinger, Patrick Botting, Jasper Lee, James E. Tooley, Koen Neiman, Matthew P. Lungren, David Liang, Ingela Schnittger, Robert A. Harrington, Jonathan H. Chen, Euan Ashley, Susan Cheng, David Ouyang, James Zou. <b>EBioMedicine</b>, October 14, 2021.
 
 > [**Video-based AI for beat-to-beat assessment of cardiac function**](https://www.nature.com/articles/s41586-020-2145-8)<br/>
   David Ouyang, Bryan He, Amirata Ghorbani, Neal Yuan, Joseph Ebinger, Curt P. Langlotz, Paul A. Heidenreich, Robert A. Harrington, David H. Liang, Euan A. Ashley, and James Y. Zou. <b>Nature</b>, March 25, 2020.
