@@ -5,13 +5,11 @@ EchoNet-Labs:<br/>Deep Learning Prediction of Biomarkers from Echocardiogram Vid
 
 EchoNet-Labs is an end-to-end deep learning model for predicting 14 different biomarkers and lab values from echocardiogram videos. 
 
-For more information, check out our pre-print:
-> [**Deep Learning Prediction of Biomarkers from Echocardiogram Videos**](https://www.medrxiv.org/content/10.1101/2021.02.03.21251080v1)
-  J. Weston Hughes, Neal Yuan, Bryan He, Jiahong Ouyang, Joseph Ebinger, Patrick Botting, Jasper Lee, James E. Tooley, Koen Neiman, Matthew P. Lungren, David Liang, Ingela Schnittger, Robert A. Harrington, Jonathan H. Chen, Euan Ashley, Susan Cheng, David Ouyang, James Zou. 2021.
 
-Dataset
--------
-We plan to share corresponding lab values to the 10,030 echocardiogram images which were released with [EchoNet-Dynamic](https://echonet.github.io/dynamic/).
+For more details, see the accompanying paper
+  
+> [**Deep learning evaluation of biomarkers from echocardiogram videos**](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00406-0/fulltext)
+  Hughes JW, Yuan N, He B, Ouyang J, Ebinger J, Botting P, Lee J, Theurer J, Tooley JE, Nieman K, Lungren MP, Liang DH, Schnittger I, Chen JH, Ashley EA, Cheng S, Ouyang D, Zou JY. <b> EBioMedicine </b> October 14, 2021. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8524103/
 
 Model Performance
 -------
